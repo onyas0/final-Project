@@ -1,5 +1,10 @@
 # final-Project
-This project highlights what i have gainded from cityHills 4 week Bootcamp.
+Multipage website
+Navigation
+Responsive design
+Js interactivity
+Live
+
 
 ### Watch the App [live](https://onyas0.github.io/final-Project/)
 

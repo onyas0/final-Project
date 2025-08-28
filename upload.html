@@ -3,21 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Drive – Files</title>
+  <title>Upload Files – My Drive</title>
   <link rel="stylesheet" href="style.css">
   <link rel="icon" href="https://www.google.com/favicon.ico">
 </head>
 <body>
   <header class="header">
-    <h1 class="logo">My Drive</h1>
+    <h1 class="logo">Upload Files</h1>
     <div class="header-actions">
-      <a href="upload.html" class="upload-btn">Upload</a>
+      <a href="index.html" class="cancel-btn">Back</a>
     </div>
   </header>
 
   <main class="container">
-    <h2 class="section-title">Uploaded Files</h2>
-    <div class="file-list" id="fileList"></div>
+    <div class="upload-section">
+      <div class="drop-zone" id="drop-zone">
+        <p>Drag & drop files here or</p>
+        <label for="fileInput" class="upload-btn">Select files</label>
+        <input type="file" id="fileInput" multiple>
+      </div>
+    </div>
   </main>
 
   <script src="script.js"></script>
