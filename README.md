@@ -7,4 +7,4 @@ This project highlights what i have gainded from cityHills 4 week Bootcamp.
 Google workspace
 
 ### Issue!
-When using select to upload files, reselect the files( still not sure one but working on it)
+When using select to upload files, reselect the files( still not sure why but working on it)
