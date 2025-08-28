@@ -1,7 +1,7 @@
 # final-Project
 This project highlights what i have gainded from cityHills 4 week Bootcamp.
 
-### Watch the App [live(https://onyas0.github.io/final-Project/)]
+### Watch the App [live](https://onyas0.github.io/final-Project/)
 
 ## Inspiration
 Google workspace
